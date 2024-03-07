@@ -8,7 +8,7 @@ User can book the room for specified days.
 4.	View all bookings for the hotel. 
 5.	Source code must be stored on GitHub with access to the repository.
 6.	The repository must contain file README.MD with instructions for launching the application and any other necessary documentation for the application.
-7.	Running the application should not require a standalone application server (application should run on embedded tomcat server) or installation of any software except Java and maven.
+7.	mySQL
 8.	The project should contain SQL-script for creating database tables and filling them with data necessary to test application.
 9.	View list of available rooms - "http://localhost:8080/room/available"
 10.	View rooms filtered by category - "http://localhost:8080/find/category/{name}". Name - "Luxe", "Economy", "Deluxe".
@@ -28,5 +28,5 @@ User can book the room for specified days.
 7.	Ability to reset forgotten password
 8.	Spring Security
 9.	CRUD operations
-10.	10. Must be available in the cloud
+10. Must be available in the cloud
 
