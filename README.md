@@ -28,4 +28,5 @@ User can book the room for specified days.
 7.	Ability to reset forgotten password
 8.	Spring Security
 9.	CRUD operations
+10.	10. Must be available in the cloud
 
